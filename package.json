@@ -1,0 +1,23 @@
+{
+  "name": "discordmessengerbottest",
+  "version": "1.0.0",
+  "description": "TestBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennehR/DiscordMessengerBotTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BennehR/DiscordMessengerBotTest/issues"
+  },
+  "homepage": "https://github.com/BennehR/DiscordMessengerBotTest#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
